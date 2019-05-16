@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin - EditText</string>
+    <string name="hint_et_input_text">Enter some text here !</string>
+</resources>
